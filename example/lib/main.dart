@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sphere/sphere.dart';
+import 'package:gd_sphere/sphere.dart';
 
 void main() {
   runApp(const MyApp());
