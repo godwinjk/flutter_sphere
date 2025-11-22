@@ -5,6 +5,8 @@ It positions child widgets on a virtual sphere using Fibonacci distribution and 
 This widget works on all Flutter platforms, including web, mobile, and desktop."
 version: 1.0.0
 homepage: https://github.com/godwinjk/flutter_sphere
+repository: https://github.com/godwinjk/flutter_sphere
+issue_tracker: https://github.com/godwinjk/flutter_sphere/issues
 
 environment:
   sdk: ^3.9.2
